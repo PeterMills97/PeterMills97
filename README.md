@@ -1,4 +1,4 @@
-### Hi there 👋
+I am an aspiring data scientist, currently experimenting with different projects to grow my skill set.
 
 <!--
 **PeterMills97/PeterMills97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
